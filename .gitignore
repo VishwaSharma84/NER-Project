@@ -144,3 +144,8 @@ configs/secrets.yaml
 artifacts/prepared/test.tsv
 artifacts/prepared/train.tsv
 logs/running_logs.log
+artifacts/data/xtreme/PAN-X.en/1.0.0/fb182342ff5c7a211ebf678cde070463acd29524b30b87f8f38c617948c2826a/dataset_info.json
+artifacts/data/xtreme/PAN-X.en/1.0.0/fb182342ff5c7a211ebf678cde070463acd29524b30b87f8f38c617948c2826a/LICENSE
+artifacts/data/xtreme/PAN-X.en/1.0.0/fb182342ff5c7a211ebf678cde070463acd29524b30b87f8f38c617948c2826a/xtreme-test.arrow
+artifacts/data/xtreme/PAN-X.en/1.0.0/fb182342ff5c7a211ebf678cde070463acd29524b30b87f8f38c617948c2826a/xtreme-train.arrow
+artifacts/data/xtreme/PAN-X.en/1.0.0/fb182342ff5c7a211ebf678cde070463acd29524b30b87f8f38c617948c2826a/xtreme-validation.arrow
