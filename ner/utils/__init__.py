@@ -1,1 +1,0 @@
-from ner.utils.util import read_yaml_file
